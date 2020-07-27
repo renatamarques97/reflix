@@ -5,7 +5,6 @@ function App() {
   return (
     <div>
       <Menu />
-      <h1>O ale é gay</h1>
     </div>
   );
 }
